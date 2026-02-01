@@ -18,7 +18,7 @@ import urllib.request
 import urllib.error
 import time
 
-MOLTBOOK_API = "https://api.moltbook.com/v1"
+MOLTBOOK_API = "https://moltbook-api.simeon-garratt.workers.dev/v1"
 CREDENTIALS_PATH = Path.home() / ".config" / "moltbook" / "credentials.json"
 
 
